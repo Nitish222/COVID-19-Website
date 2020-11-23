@@ -2,4 +2,5 @@
 A website that helps people locate the Government hospitals in India.
 
 Link:
-coronavirushospital.herokuapp.com
+https://nitish222.github.io/COVID-19-Website/index.html
+
